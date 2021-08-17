@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.moins{
+  background-color: rgb(245, 29, 29);
+  border-radius: 50%;
+}
+
+
+.plus{
+  background-color: green;
+  border-radius: 50%;
+}
